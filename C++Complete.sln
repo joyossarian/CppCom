@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryModel", "MemoryModel\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdvancedTemplate", "AdvancedTemplate\AdvancedTemplate.vcxproj", "{31CF4E08-07ED-4D64-9F89-9FEBFC0E67F8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointers", "SmartPointers\SmartPointers.vcxproj", "{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{31CF4E08-07ED-4D64-9F89-9FEBFC0E67F8}.Release|x64.Build.0 = Release|x64
 		{31CF4E08-07ED-4D64-9F89-9FEBFC0E67F8}.Release|x86.ActiveCfg = Release|Win32
 		{31CF4E08-07ED-4D64-9F89-9FEBFC0E67F8}.Release|x86.Build.0 = Release|Win32
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Debug|x64.ActiveCfg = Debug|x64
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Debug|x64.Build.0 = Debug|x64
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Debug|x86.Build.0 = Debug|Win32
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Release|x64.ActiveCfg = Release|x64
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Release|x64.Build.0 = Release|x64
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Release|x86.ActiveCfg = Release|Win32
+		{2E5DA5DD-0327-470C-9E5E-F59A5EE2770B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
